@@ -212,7 +212,7 @@ This repository strengthens:
 
 ## 📬 Connect With Me
 
-- **GitHub:** *[your-link-here](https://github.com/Shivaramnnp)*  
+- **GitHub:** *https://github.com/Shivaramnnp*  
 - **LinkedIn:** *https://www.linkedin.com/posts/shivaramnnp_github-shivaramnnpmyclanguagejourney-activity-7395058642208808960-wKaw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeJAUwBavehwGyY3onfvGRHpPMTI1KOAJ8*  
 
 ---
