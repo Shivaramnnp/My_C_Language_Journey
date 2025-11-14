@@ -1,5 +1,5 @@
-# My C Language Journey
-# 📘 C Programming Practice & Revision Repository
+
+# 📘 C Programming Practice , Journey & Revision Repository
 
 This repository contains **structured, well-organized C programs** created during my revision of the C programming language. Each file focuses on a specific concept, progressing from beginner-level syntax to more advanced topics like dynamic memory allocation, pointers, structures, enums, file handling, and mini-projects.
 
@@ -212,8 +212,8 @@ This repository strengthens:
 
 ## 📬 Connect With Me
 
-- **GitHub:** *your-link-here*  
-- **LinkedIn:** *your-link-here*  
+- **GitHub:** *[your-link-here](https://github.com/Shivaramnnp)*  
+- **LinkedIn:** *https://www.linkedin.com/posts/shivaramnnp_github-shivaramnnpmyclanguagejourney-activity-7395058642208808960-wKaw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeJAUwBavehwGyY3onfvGRHpPMTI1KOAJ8*  
 
 ---
 
